@@ -44,7 +44,7 @@ Here are some of the projects I'm working on and learning from:
 
 📫 Connect With Me
 
-- 💼 LinkedIn: "Aasif Ali" (YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: "Aasif Ali" (https://www.linkedin.com/in/aasifxv?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 🐙 GitHub: "aasifxv"
 - (https://github.com/aasifxv)
 
